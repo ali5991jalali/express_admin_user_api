@@ -1,0 +1,22 @@
+{
+  "name": "firstexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "ali jalali",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongoose": "^5.2.4",
+    "mongoose-timestamp": "^0.6.0",
+    "nodemailer": "^4.6.7",
+    "nodemon": "^1.18.3"
+  },
+  "license": "ISC"
+}
