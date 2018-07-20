@@ -1,6 +1,6 @@
 const bcrypt=require('bcryptjs');
 const nodemailer=require('nodemailer');
-let {user,pass}={user:'ali.5991.jalali@gmail.com',pass:'alinotavailable'}
+let {user,pass}={user:'ali.5991.jalali@gmail.com',pass:'***********'}
 
 
 
